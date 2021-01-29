@@ -9,19 +9,19 @@ body{
 h1{
     color: white;
 }
-.portada{
+.banner{
     padding: 20px;
     background-color: #363636;
 }
-.contenedor{
+.container{
     max-width: 1200px;
     width: 40%;
     margin: 0 auto;
 }
-.contenedor-elementos:first-child{
+.elements-container:first-child{
     margin-top: 40px;
 }
-.contenedor-elementos h3{
+.elements-container h3{
  margin: 10px;
  color: #363636;
 }
